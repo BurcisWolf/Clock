@@ -5,6 +5,6 @@
 - Clock website was build with <b>HTML, CSS and Javascript</b>.<br>
 
 <h2>Features</h2>
-- Light / Dark mode
+- Light / Dark mode <br>
 - Page is refreshed every minute
 
