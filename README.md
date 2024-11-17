@@ -6,5 +6,5 @@
 
 <h2>Features</h2>
 - Light / Dark mode <br>
-- Page is refreshed every minute
+- Page is refreshed every second
 
